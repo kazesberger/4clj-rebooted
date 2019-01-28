@@ -1,5 +1,11 @@
 # 4clj-rebooted
 
+## TODO
+
+update this (it's probably gonna be one or more facelift-PRs) subject to [my next #100DaysOfClojre round(s)](https://gist.github.com/kazesberger/8a59f4f602a74132acc9a3892434cb2a)
+
+## Project description
+
 #100DaysOfClojure sideproject for now but maybe this could be a proper reboot of www.4clojure.com.
 
 I'm still quite the clj(s) noob, this project might just die before being finished.
